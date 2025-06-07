@@ -141,6 +141,10 @@ section > h2 {
   /* gray-600 */
 }
 
+.dot-points {
+  text-align: justify;
+}
+
 .dates {
   font-style: italic;
   font-size: 0.9rem;
